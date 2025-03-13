@@ -17,7 +17,7 @@ A full-stack application for managing movies using Spring Boot (backend) and Ang
 **Project Setup**
 
 1. Clone the repository:
-   ```git clone https://github.com/saharfayez/movie-management-app.git```
+   ```git clone --recurse-submodules https://github.com/saharfayez/movie-management-app.git```
 
 **Backend Setup**
 
